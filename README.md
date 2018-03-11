@@ -69,7 +69,9 @@ alias mkpr="mkdir -p {data/seqs,scripts,analysis}"
 
 7. git的使用
 
-8. gzip 和 gunzip
+8. gzip
+
+gzip <target> 默认会 overwrite 原文件输出 target.gz ，如果想不 overwrite ， 就要 gzip -c <target> ， 如果要输出到另一个文件夹，就要
 
 
 
