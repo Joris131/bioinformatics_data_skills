@@ -69,6 +69,8 @@ alias mkpr="mkdir -p {data/seqs,scripts,analysis}"
 
 7. git的使用
 
+8. gzip 和 gunzip
+
 
 
 
